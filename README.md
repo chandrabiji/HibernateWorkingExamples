@@ -109,7 +109,11 @@
                 		tx.commit();
                 		s.close();
                   	}
-                  }
+                  }  
+# Hibernate_CURD Application using annotation Based
+  -  Here redusing xml mapping file remaining steps are same
+  
+		  
 # Note : Regular Online Training sessions Please contact through WhatsApp : +91-9866037742 / Email Id: chandramca04@gmail.com / skype Id: chandra.b3
 
     
