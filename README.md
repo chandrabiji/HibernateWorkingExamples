@@ -110,10 +110,10 @@
                 		s.close();
                   	}
                   }  
-  ## Hibernate_CURD Application using annotation Based
+  ## 2. Hibernate_CURD Application using annotation Based
      -  Here redusing xml mapping file remaining steps are same
   
- ## Hibernate Session Object States
+ ## 3. Hibernate Session Object States
     -  Hibernate Session Object Basically 4 states   
       --  Transient  
       --  Persistent  
@@ -121,7 +121,7 @@
       --  Remove  
           -->Check applications once.  
 
- ## Hibernate One - To - One Relationship  
+ ## 4. Hibernate One - To - One Relationship  
      -- Two Entity classes level relation ship  
 		  
 # Note : Regular Online Training sessions Please contact through WhatsApp : +91-9866037742 / Email Id: chandramca04@gmail.com / skype Id: chandra.b3
