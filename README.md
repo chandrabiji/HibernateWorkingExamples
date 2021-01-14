@@ -110,7 +110,7 @@
                 		s.close();
                   	}
                   }
-
+# Note : Regular Online Training sessions Please contract through WhatsApp : +91-9866037742
 
     
      
