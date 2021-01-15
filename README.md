@@ -125,6 +125,7 @@
      -- Two Entity classes level relation ship  
  ## 5. Hibernate One - To - Many Relationship  
      -- after completing uploading.....
+ ## 6. Hibernate Many - To - One Relationship  
 		  
 # Note : Regular Online Training sessions, Please contact through WhatsApp : +91-9866037742 / Email Id: chandramca04@gmail.com / skype Id: chandra.b3
 
