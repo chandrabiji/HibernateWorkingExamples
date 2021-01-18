@@ -126,7 +126,7 @@
  ## 5. Hibernate One - To - Many Relationship  
      -- One Question Many Answers Relation ship
  ## 6. Hibernate Many - To - One Relationship  
- 
+    -- Many Employees belong to one Address  
  ## 7. Hibernate Many - To - Many Relationship 
  
 		  
