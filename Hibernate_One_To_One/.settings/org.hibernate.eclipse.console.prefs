@@ -1,0 +1,3 @@
+default.configuration=Hibernate_One_To_One
+eclipse.preferences.version=1
+hibernate3.enabled=true
