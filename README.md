@@ -126,8 +126,10 @@
  ## 5. Hibernate One - To - Many Relationship  
      -- One Question Many Answers Relation ship
  ## 6. Hibernate Many - To - One Relationship  
- 
-		  
+    -- Many Employees belong to one Address  
+ ## 7. Hibernate Many - To - Many Relationship  
+   -- Many Questions belongs to Many Answers
+ 		  
 # Note : Regular Online Training sessions, Please contact through WhatsApp : +91-9866037742 / Email Id: chandramca04@gmail.com / skype Id: chandra.b3
 
     
