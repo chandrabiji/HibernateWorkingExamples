@@ -129,6 +129,17 @@
     -- Many Employees belong to one Address  
  ## 7. Hibernate Many - To - Many Relationship  
    -- Many Questions belongs to Many Answers
+ ## 8. Hibernate First Level Cache and Second Level Cache  
+        -- First Level Cache (Session Object)
+	-- Second Level Cache's different types are there
+	    -- EH-Cache
+	    -- OS Cache
+	    -- Swarn Cache
+	    -- JBoss Cache
+ ## 9. Hibernate Bulk Operations
+       -- HQL
+       -- Criteria API
+       -- Native SQL
  		  
 # Note : Regular Online Training sessions, Please contact through WhatsApp : +91-9866037742 / Email Id: chandramca04@gmail.com / skype Id: chandra.b3
 
