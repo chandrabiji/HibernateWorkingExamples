@@ -36,7 +36,7 @@
 		<dependency>
 			<groupId>com.sun.jersey</groupId>
 			<artifactId>jersey-core</artifactId>
-			<version>1.12</version>
+			<version>1.13</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/com.sun.jersey/jersey-json -->
 		<dependency>
